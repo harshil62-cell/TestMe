@@ -1,0 +1,20 @@
+{
+  "name": "testme",
+  "version": "1.0.0",
+  "description": "An AI based test generating website to test yourself of any given topic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshil Vasani",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.12.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "prisma": "^6.12.0"
+  }
+}
